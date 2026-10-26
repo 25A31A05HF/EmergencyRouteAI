@@ -1,0 +1,11 @@
+EmergencyRoute AI sample map
+Grid: 5 rows x 5 columns
+Node ID = row * 5 + column
+Road costs are simulated travel-time units, not real-world minutes.
+Some road segments have higher costs to represent congestion.
+Hospitals:
+101 Central General Hospital | General | node 12
+102 Heart Care Centre | Cardiology | node 18
+103 City Trauma Hospital | Trauma | node 4
+104 East General Hospital | General | node 24
+105 Neuro Health Centre | Neurology | node 8
